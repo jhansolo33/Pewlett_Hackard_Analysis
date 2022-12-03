@@ -6,19 +6,24 @@ Data Source: Employee_Database_challenge.sql
 
 Data Tools: PostgreSQL, pgAdmin
 
-Software: pgAdmin 4, Python 3.9, Visual Studio Code, Fla
+Software: pgAdmin 4, Python 3.9, Visual Studio Code
 
 ## Overview of the analysis:
 Grateful for the opportunity to assist your staff in preparing for the upcoming “silver tsunami’. A vast group of employees are eligible for retirement. Honorably, Pewlett-Hackard wants to be prepared for alterations in the infrastructure as well as the well-being of those departing, ie., retirement packages, open position, possible staffing adjusts, and employee training. Identification of employees eligible for the mentorship needs to be assessed.
 Retirement Titles - Retrieved number of employees by recent job title, filter by count:
 
---Image
+<p align="center">
+  <img width="600" height="500" src="https://github.com/jhansolo33/Pewlett_Hackard_Analysis/blob/main/image%202.png">
+</p> 
+
 
 
 Using DataFrames and tabular data, we designed the entity relationship diagrams (ERDs), imported data into a database, performed some troubleshooting on common errors, and created queries that facilitated our understanding of your company allowing us to make suggestions for these highly anticipated adjustments. Using an online tool called Quick Database Diagrams, we created a conceptual ERD.
 
 
---Image
+<p align="center">
+  <img width="600" height="500" src="https://github.com/jhansolo33/Pewlett_Hackard_Analysis/blob/main/image%201.png">
+</p> 
 
 
 ## Results:
@@ -27,7 +32,14 @@ In our review of the data, we have a few employees who changed positions over th
 Department with the most to lose • Of the Employees, Engineering dept, Employees with Senior Engineer title had the highest amount of retiring individuals • will lose the most amount of staff and Management dept had the least amount of retiring individuals.
 
 
---Image
+<p align="center">
+  <img width="600" height="500" src="https://github.com/jhansolo33/Pewlett_Hackard_Analysis/blob/main/image%204.png">
+</p> 
+
+
+<p align="center">
+  <img width="600" height="500" src="https://github.com/jhansolo33/Pewlett_Hackard_Analysis/blob/main/image%203.png">
+</p> 
 
 
 ## Summary:
@@ -36,6 +48,8 @@ The analysis can be very beneficial for the future of your company. The number o
 The eligibility for mentorship analysis revealed 1,549 individuals can participate. Working closely with your department heads we can gain an understanding of the qualified retirement ready employees in the departments who can mentor the next generation of employees. To begin that assessment we have provided data to initiate that journey to find mentors for the program.
 
 
--- image
+<p align="center">
+  <img width="600" height="500" src="https://github.com/jhansolo33/Pewlett_Hackard_Analysis/blob/main/image%205.png">
+</p> 
 
 
