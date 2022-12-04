@@ -9,7 +9,8 @@ Data Tools: PostgreSQL, pgAdmin
 Software: pgAdmin 4, Python 3.9, Visual Studio Code
 
 ## Overview of the analysis:
-Grateful for the opportunity to assist your staff in preparing for the upcoming “silver tsunami’. A vast group of employees are eligible for retirement. Honorably, Pewlett-Hackard wants to be prepared for alterations in the infrastructure as well as the well-being of those departing, ie., retirement packages, open position, possible staffing adjusts, and employee training. Identification of employees eligible for the mentorship needs to be assessed.
+We are grateful for the opportunity to assist your staff in preparing for your big event. A vast group of employees are eligible for retirement. Honorably, Pewlett-Hackard wants to be prepared for some changes in the company as well as for the well-being of those employees leaving. (I.E. - retirement packages, open position, possible staffing adjusts, and employee training. Identification of employees eligible for the mentorship needs to be assessed.
+
 Retirement Titles - Retrieved number of employees by recent job title, filter by count:
 
 <p align="center">
