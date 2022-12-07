@@ -44,9 +44,8 @@ Department with the most to lose • Of the Employees, Engineering dept, Employe
 
 
 ## Summary:
-The analysis can be very beneficial for the future of your company. The number of employees retiring, and addition of the new employees PH will be experiencing major alterations and planning for such dynamics will lead to further success of the company. The company will need to replace 90,398 roles within the company as the "silver tsunami" begins to make an impact. With this, we could provide a further assessment to reveal if there enough qualified employee to meet the needs and how many will be necessary to hire in the future. With these statistics, 38 departments will be impacted by this.
+The analysis can be very beneficial for the future of your company. The number of employees retiring, and addition of the new employees PH will be experiencing major alterations and planning for such dynamics will lead to further success of the company. The company will need to replace 90,398 roles within the company as the "mass retirement" begins to make an impact. With this, we could provide a further assessment to reveal if there enough qualified employee to meet the needs and how many will be necessary to hire in the future. According to these statistics, 38 departments will be impacted by this.
 
-The eligibility for mentorship analysis revealed 1,549 individuals can participate. Working closely with your department heads we can gain an understanding of the qualified retirement ready employees in the departments who can mentor the next generation of employees. To begin that assessment we have provided data to initiate that journey to find mentors for the program.
 
 
 <p align="center">
